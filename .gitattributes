@@ -1,0 +1,6 @@
+*   text=auto
+*.c text eof=lf
+*.cpp text eof=lf
+*.jpg -text
+*.ping  -text
+*.txt eof=crlf
